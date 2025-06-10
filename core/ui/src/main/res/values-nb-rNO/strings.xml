@@ -91,6 +91,7 @@
     <string name="alarm">Alarm</string>
     <string name="exportsettings">Eksporter innstillinger</string>
     <string name="disableloop">Stans loop</string>
+    <string name="disabled_loop">Deaktivert loop</string>
     <string name="resumeloop">Gjenoppta loop</string>
     <string name="suspendloop">Pause loop</string>
     <string name="duration_min_label">Varighet [min]</string>
@@ -118,6 +119,7 @@
     <string name="duration_label">Varighet</string>
     <string name="shortgramm">g</string>
     <string name="pumpsuspended">Pumpen er pauset</string>
+    <string name="pump_running">Pumpe i drift</string>
     <string name="notconfigured">Ikke konfigurert</string>
     <string name="loopsuspended">Loop pauset</string>
     <string name="trend_arrow">Trendpil</string>
@@ -160,6 +162,8 @@
     <string name="closedloop">Lukket Loop</string>
     <string name="openloop">Åpen Loop</string>
     <string name="lowglucosesuspend">Stopp ved lavt BS</string>
+    <string name="pump_disconnected">Pumpe frakoblet</string>
+    <string name="pump_suspended">Pumpe pauset</string>
     <string name="dia">DIA</string>
     <string name="ic_short">IK</string>
     <string name="isf_short">ISF</string>
@@ -295,6 +299,8 @@
     <string name="uel_lgs_loop_mode">LGS LOOP-MODUS</string>
     <string name="uel_open_loop_mode">ÅPEN LOOP-MODUS</string>
     <string name="uel_loop_disabled">LOOP DEAKTIVERT</string>
+    <string name="uel_loop_resumed">LOOP GJENOPPTATT</string>
+    <string name="uel_pump_running">PUMPE I DRIFT</string>
     <string name="uel_reconnect">KOBLE TIL</string>
     <string name="uel_disconnect">KOBLE FRA</string>
     <string name="uel_resume">GJENOPPTA</string>
