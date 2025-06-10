@@ -91,7 +91,6 @@
     <string name="alarm">Alarm</string>
     <string name="exportsettings">Eksporter innstillinger</string>
     <string name="disableloop">Stans loop</string>
-    <string name="enableloop">Aktiver loop</string>
     <string name="resumeloop">Gjenoppta loop</string>
     <string name="suspendloop">Pause loop</string>
     <string name="duration_min_label">Varighet [min]</string>
@@ -167,7 +166,6 @@
     <string name="canceling_tbr_failed">Kunne ikke avbryte midlertidig basal</string>
     <string name="canceling_eb_failed">Kunne ikke avbryte forlenget bolus</string>
     <string name="virtualpump_uploadstatus_title">Last opp pumpestatus til NS eller Tidepool</string>
-    <string name="suspendloop_label">Deaktivert/pauset loop</string>
     <string name="iob_label">Aktivt insulin (IOB)</string>
     <string name="loopstatus_targets">MÅLVERDIER:</string>
     <string name="loopstatus_OAPS_result">OAPS resultat:</string>
@@ -297,7 +295,6 @@
     <string name="uel_lgs_loop_mode">LGS LOOP-MODUS</string>
     <string name="uel_open_loop_mode">ÅPEN LOOP-MODUS</string>
     <string name="uel_loop_disabled">LOOP DEAKTIVERT</string>
-    <string name="uel_loop_enabled">LOOP AKTIVERT</string>
     <string name="uel_reconnect">KOBLE TIL</string>
     <string name="uel_disconnect">KOBLE FRA</string>
     <string name="uel_resume">GJENOPPTA</string>
