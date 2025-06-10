@@ -91,7 +91,6 @@
     <string name="alarm">Alarm</string>
     <string name="exportsettings">Export nastavení</string>
     <string name="disableloop">Zakázat smyčku</string>
-    <string name="enableloop">Povolit smyčku</string>
     <string name="resumeloop">Obnovit smyčku</string>
     <string name="suspendloop">Pozastavit smyčku</string>
     <string name="duration_min_label">Trvání [min]</string>
@@ -167,7 +166,6 @@
     <string name="canceling_tbr_failed">Rušení dočasného bazálu selhalo</string>
     <string name="canceling_eb_failed">Zastavení prodlouženého bolusu selhalo</string>
     <string name="virtualpump_uploadstatus_title">Nahrávat stav pumpy do NS nebo Tidepoolu</string>
-    <string name="suspendloop_label">Zakázaná/pozastavená smyčka</string>
     <string name="iob_label">Aktivní inzulín (IOB)</string>
     <string name="loopstatus_targets">CÍL:</string>
     <string name="loopstatus_OAPS_result">VÝSLEDEK OAPS:</string>
@@ -297,7 +295,6 @@
     <string name="uel_lgs_loop_mode">REŽIM SMYČKY LGS</string>
     <string name="uel_open_loop_mode">REŽIM OTEVŘENÉ SMYČKY</string>
     <string name="uel_loop_disabled">SMYČKA VYPNUTA</string>
-    <string name="uel_loop_enabled">SMYČKA ZAPNUTA</string>
     <string name="uel_reconnect">ZNOVU PŘIPOJIT</string>
     <string name="uel_disconnect">ODPOJIT</string>
     <string name="uel_resume">OBNOVIT</string>
