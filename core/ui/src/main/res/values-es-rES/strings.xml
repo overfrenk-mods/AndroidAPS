@@ -91,7 +91,6 @@
     <string name="alarm">Alarma</string>
     <string name="exportsettings">Exportar ajustes</string>
     <string name="disableloop">Desactivar lazo</string>
-    <string name="enableloop">Activar lazo</string>
     <string name="resumeloop">Reanudar el lazo</string>
     <string name="suspendloop">Suspender lazo</string>
     <string name="duration_min_label">Duración [min]</string>
@@ -167,7 +166,6 @@
     <string name="canceling_tbr_failed">Error cancelando la basal temporal</string>
     <string name="canceling_eb_failed">Error cancelando el bolo extendido</string>
     <string name="virtualpump_uploadstatus_title">Subir estado de la bomba a NS o Tidepool</string>
-    <string name="suspendloop_label">Desactiva/suspende el lazo</string>
     <string name="iob_label">Insulina a bordo (IOB)</string>
     <string name="loopstatus_targets">OBJETIVOS:</string>
     <string name="loopstatus_OAPS_result">RESULTADO OAPS:</string>
@@ -297,7 +295,6 @@
     <string name="uel_lgs_loop_mode">MODO LAZO LGS</string>
     <string name="uel_open_loop_mode">MODO LAZO ABIERTO</string>
     <string name="uel_loop_disabled">LAZO DESACTIVADO</string>
-    <string name="uel_loop_enabled">LAZO ACTIVADO</string>
     <string name="uel_reconnect">RECONECTAR</string>
     <string name="uel_disconnect">DESCONECTAR</string>
     <string name="uel_resume">REANUDAR</string>
