@@ -91,7 +91,6 @@
     <string name="alarm">Allarme</string>
     <string name="exportsettings">Esporta impostazioni</string>
     <string name="disableloop">Disabilita loop</string>
-    <string name="enableloop">Abilita loop</string>
     <string name="resumeloop">Riprendi loop</string>
     <string name="suspendloop">Sospendi loop</string>
     <string name="duration_min_label">Durata [min]</string>
@@ -167,7 +166,6 @@
     <string name="canceling_tbr_failed">Basale temporanea: cancellazione fallita</string>
     <string name="canceling_eb_failed">Bolo esteso: cancellazione fallita</string>
     <string name="virtualpump_uploadstatus_title">Carica stato micro su NS o Tidepool</string>
-    <string name="suspendloop_label">Loop disabilitato/sospeso</string>
     <string name="iob_label">Insulina attiva (IOB)</string>
     <string name="loopstatus_targets">TARGET:</string>
     <string name="loopstatus_OAPS_result">RISULTATO OAPS:</string>
@@ -297,7 +295,6 @@
     <string name="uel_lgs_loop_mode">MODALITÀ LOOP LGS</string>
     <string name="uel_open_loop_mode">MODALITÀ LOOP APERTO</string>
     <string name="uel_loop_disabled">LOOP DISABILITATO</string>
-    <string name="uel_loop_enabled">LOOP ABILITATO</string>
     <string name="uel_reconnect">RICONNETTI</string>
     <string name="uel_disconnect">DISCONNETTI</string>
     <string name="uel_resume">RIPRENDI</string>
